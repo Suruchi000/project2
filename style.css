@@ -377,4 +377,7 @@ body{
     text-decoration:none;
 }
 
+    .header .logo{
+  margin-top: 0.5rem;
+}
 }
